@@ -1,3 +1,5 @@
 # DocumentStore
 
-http:/localhost:6000 - Swagger Docs
+Dependency: MongoDb
+
+http:/localhost:6000 - Swagger docs
