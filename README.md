@@ -1,4 +1,4 @@
-# DocumentStore
+# DocumentStore (demo)
 
 Dependency: MongoDb
 
